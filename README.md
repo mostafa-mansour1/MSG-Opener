@@ -3,7 +3,7 @@
 MAC OS app to open msg files 
 
 # How to install
-1- Download the pkg file [MSG Opener-1.0.pkg](https://github.com/mostafa-mansour1/MSG-Opener/raw/main/MSG%20Opener-1.0.pkg)
+1- Download the pkg file [MSG Opener-x.x.pkg](https://github.com/mostafa-mansour1/MSG-Opener/releases/tag/1.0)
 
 2- Double click and install it
 
